@@ -1,0 +1,7 @@
+Nmap
+Python version 3 : libreias Selenium, Os, Time, webdriver
+Metasploit
+WhatWeb
+Sslscan
+Joomscan
+WPScan
